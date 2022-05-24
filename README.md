@@ -4,7 +4,7 @@ Hi 👋 My name is Alan Gonçalves Bazilio
 * 🖥️  See my portfolio at [alanbazilik](http://github.com/alanbazilik?tab=repositories)
 * ✉️  You can contact me at [alangoncalvesbazilio@gmail.com](mailto:alangoncalvesbazilio@gmail.com)
 
-<a href="[https://twitter.com/alangoncalvesb2](https://twitter.com/alangoncalvesb2)](https://twitter.com/alangoncalvesb2)](https://twitter.com/alangoncalvesb2)" target="_blank" rel="noreferrer"><img
+<a href="[https://twitter.com/alangoncalvesb2]" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/AlanbazilioGb?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/alanbazilik" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/alanbazilik?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitch.tv/alangb12" target="_blank" rel="noreferrer"><img
