@@ -1,7 +1,7 @@
 Hi 👋 My name is Alan Gonçalves Bazilio
 =======================================
 
-* 🖥️  See my portfolio at [alanbazilik](href="https://meu-portifolio-murex-zeta.vercel.app/")
+* 🖥️  See my portfolio at [alanbazilik](href:https://meu-portifolio-murex-zeta.vercel.app/)
 * ✉️  You can contact me at [alangoncalvesbazilio@gmail.com](mailto:alangoncalvesbazilio@gmail.com)
 
 <a href="[https://twitter.com/alangoncalvesb2]" target="_blank" rel="noreferrer"><img
