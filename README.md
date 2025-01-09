@@ -1,7 +1,7 @@
 Hi 👋 My name is Alan Gonçalves Bazilio
 =======================================
 
-* 🖥️  See my portfolio at [alanbazilik] <a href="[https://alanbazilik-portflio.netlify.app]">
+* 🖥️  See my portfolio at [alanbazilik](https://alanbazilik-portflio.netlify.app)
 * ✉️  You can contact me at [alangoncalvesbazilio@gmail.com](mailto:alangoncalvesbazilio@gmail.com)
 
 <a href="[https://twitter.com/alangoncalvesb2]" target="_blank" rel="noreferrer"><img
